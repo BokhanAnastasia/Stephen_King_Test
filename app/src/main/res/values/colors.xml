@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="back">#1B1D1C</color>
+    <color name="cardBack">#252726</color>
+    <color name="colorProgressBar">#2F3230</color>
+    <color name="bloodRed">#B12026</color>
+    <color name="textColorLightYellow">#C4C393</color>
+    <color name="textColorLightGrey">#737368</color>
+</resources>

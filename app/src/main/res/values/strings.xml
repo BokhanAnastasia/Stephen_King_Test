@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DNS Test</string>
+    <string name="textDescription">books from 1990 until nowadays</string>
+    <string name="textHeader">stephen king</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
